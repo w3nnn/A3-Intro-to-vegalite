@@ -61,3 +61,11 @@ You will make two submissions:
 ### Tips
 
 There are some helper code provided for you in `index.html`, `style.css`, and `vis.js`. Feel free to ask questions and google how to do things.
+
+### Resources
+
+You can learn most things vegalite from this observable course [UW vegalite course](https://observablehq.com/@jonfroehlich/observable-tutorial?collection=@jonfroehlich/intro-to-vega-lite)
+
+Another amazing [collection of lessons](https://observablehq.com/collection/@uwdata/visualization-curriculum)
+
+Some vegalite-api examples can be found [here](https://observablehq.com/collection/@vega/vega-lite-api)
