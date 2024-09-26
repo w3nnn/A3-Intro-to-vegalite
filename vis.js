@@ -19,14 +19,6 @@ async function render() {
   vegaEmbed("#view", vlSpec).then((result) => {
     const view = result.view;
     view.run();
-    document
-      .getElementById("slider")
-      .addEventListener("change", function (event) {
-        const sliderValue = event.target.value;
-        console.log(sliderValue);
-        // Update the Vega-Lite parameter and rerun the view
-        view.signal("sliderValue", sliderValue).run();
-      });
   });
 }
 
