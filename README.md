@@ -1,6 +1,6 @@
 # A3 - Intro to vegalite
 
----
+[link to assignment on github](https://github.com/SIAT-IAT-355/A3-Intro-to-vegalite)
 
 **Due date:**
 
