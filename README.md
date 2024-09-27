@@ -8,7 +8,7 @@
 In this assignment, you will create data visualizations using **Vega-Lite**. You will explore video game sales data and produce insightful visualizations to analyze trends, relationships, and patterns. The goal is to apply your knowledge of visualization design principles and get hands-on experience with Vega-Lite.
 
 ### Getting Started with Vega-Lite
-- You will use the **`datasets/videogames_wide.csv`** and **`datasets/videogames_long.csv`** for this assignment. Both datasets contain the same data, but one of them makes your life easier. Choose the dataset that best suits your needs.
+- You will use the **`dataset/videogames_wide.csv`** and **`dataset/videogames_long.csv`** for this assignment. Both datasets contain the same data, but one of them makes your life easier. Choose the dataset that best suits your needs.
 
 
 ### There are three main parts:
@@ -64,7 +64,7 @@ For each of your visualizations, briefly describe why you chose the specific vis
 
 - **You will make two submissions**:
   1. **Website Link**: 
-     - You will create and deliver your visualizations in your website using **HTML, CSS, and JavaScript**. You can explore and create your visualizations in **Observable**.
+     - You will create and deliver your visualizations on your website using **HTML, CSS, and JavaScript**. You can explore and create your visualizations in **Observable**.
      - Submit the **link** to your website.
   2. **PDF Report**:
      - Submit a PDF document that describes your design choices for each visualization. Reflect on the decisions you made, based on the lectures and principles covered in class.
